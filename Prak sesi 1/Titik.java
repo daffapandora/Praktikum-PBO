@@ -1,7 +1,7 @@
-/*Nama File = Titik.java
- *Deskripsi = berisi berisi program Titik
- *Pembuat   = Daffa Pandora El-farisin/24060123140185
- *Tanggal   = 18 Februari 2025
+/*Nama File : Titik.java
+ *Deskripsi : berisi berisi program Titik
+ *Pembuat   : Daffa Pandora El-farisin/24060123140185
+ *Tanggal   : 20 Februari 2025
 */
 
 public class Titik {
