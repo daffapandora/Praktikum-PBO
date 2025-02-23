@@ -1,7 +1,7 @@
-/*Nama File = MTitik.java
- *Deskripsi = Berisi atribut dan method dalam class Titik
- *Pembuat   = Daffa Pandora El-farisin/24060123140185
- *Tanggal   = 18 Februari 2025
+/*Nama File : MTitik.java
+ *Deskripsi : Berisi atribut dan method dalam class Titik
+ *Pembuat   : Daffa Pandora El-farisin/24060123140185
+ *Tanggal   : 20 Februari 2025
 */
 public class MTitik {
     public static void main(String[] args) {
